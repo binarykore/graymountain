@@ -23,7 +23,7 @@
 * cmake -DWITH_HWLOC=OFF ..
 * make
 
-## For Orange Pi One:
+## For Orange / Raspberry Pi:
 
 ## Setup:
 * apt-get update -y --fix-missing
