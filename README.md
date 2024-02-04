@@ -19,7 +19,7 @@
 * git clone https://github.com/xmrig/xmrig
 * cd xmrig
 * mkdir build
-* cd bulid
+* cd build
 * cmake -DWITH_HWLOC=OFF ..
 * make
 
@@ -34,7 +34,7 @@
 * git clone https://github.com/xmrig/xmrig
 * cd xmrig
 * mkdir build
-* cd bulid
+* cd build
 * cmake -DWITH_HWLOC=OFF ..
 * make
 
