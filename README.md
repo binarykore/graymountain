@@ -7,7 +7,7 @@
 ## For Termux (Android Phones)
 
 ## Note:
-* It will heat up very quickly:
+* It will heat up very quickly -
 
 ## Setup: 
 * apt-get update -y --fix-missing
