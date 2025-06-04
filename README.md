@@ -4,7 +4,7 @@
 ## XMRig Auto Script (Gray Mountain):
 * https://redkrakensec.vercel.app
 
-## For Termux (Android Phones)
+## For Termux (Android Phones) -
 
 ## Note:
 * It will heat up very quickly -
@@ -23,7 +23,7 @@
 * cmake -DWITH_HWLOC=OFF ..
 * make
 
-## For Orange / Raspberry Pi:
+## For Orange / Raspberry / Banana Pi -
 
 ## Setup:
 * apt-get update -y --fix-missing
@@ -38,7 +38,7 @@
 * cmake -DWITH_HWLOC=OFF ..
 * make
 
-## Auto Start Code
+## Auto Start Code:
 * Soon (Service Daemon - Systemd)..
 
 ### Copyright (2023):
