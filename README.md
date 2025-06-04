@@ -39,7 +39,7 @@
 * make
 
 ## Auto Start Code
-* Soon..
+* Soon (Service Daemon - Systemd)..
 
 ### Copyright (2023):
 
