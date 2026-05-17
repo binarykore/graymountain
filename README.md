@@ -10,6 +10,7 @@
 ## XMRig Auto Script (Gray Mountain):
 * https://redkrakensec.vercel.app
 * HTTP Authentication via Short I/O and GitHub API or GitHub Gist -
+* ACS / OTA (Over the Air - Updates)
 
 ## For Termux (Android Phones) -
 
