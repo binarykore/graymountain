@@ -4,7 +4,7 @@
 ## Patreon Sponsor -
 * (Patreon / Medium / Substack):
 
-[![Sponsor Gray Mountain](https://img.shields.io/github/sponsors/binarykore?label=Sponsor%20Binary%20Kore&logo=github&style=for-the-badge)](https://github.com/sponsors/binarykore?frequency=patreon)
+[![Sponsor Binary Kore](https://img.shields.io/github/sponsors/binarykore?label=Sponsor%20Binary%20Kore&logo=github&style=for-the-badge)](https://github.com/sponsors/binarykore?frequency=patreon)
 
 
 ## XMRig Auto Script (Gray Mountain):
@@ -29,7 +29,7 @@
 * cmake -DWITH_HWLOC=OFF ..
 * make
 
-## For Orange / Raspberry / Banana Pi -
+## For Orange / Raspberry / Banana Pi / Nano Pi / Rock Pi -
 
 ## Setup:
 * apt-get update -y --fix-missing
@@ -44,8 +44,14 @@
 * cmake -DWITH_HWLOC=OFF ..
 * make
 
+## Update -
+* mkdir build
+* cd build
+* cmake ..
+* make -j$(nproc)
+
 ## Auto Start Code:
-* Soon (Service Daemon - Systemd)..
+* Soon (Service Daemon - Systemd) - System Daemon..
 
 ### Copyright (2023):
 
