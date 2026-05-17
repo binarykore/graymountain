@@ -21,7 +21,7 @@
 * apt-get install git
 * apt-get install wget
 * apt-get install proot
-* apt-get install build-essential cmake libuv1-dev libmicrohttpd-dev libssl-dev libhwloc-dev -y
+* apt-get install build-essential cmake libuv1-dev libssl-dev libmicrohttpd-dev libhwloc-dev -y
 * git clone https://github.com/xmrig/xmrig
 * cd xmrig
 * mkdir build
@@ -36,7 +36,7 @@
 * apt-get upgrade
 * apt-get install git
 * apt-get install wget
-* apt-get install build-essential cmake libuv1-dev libmicrohttpd-dev libssl-dev libhwloc-dev -y
+* apt-get install build-essential cmake libuv1-dev libssl-dev libmicrohttpd-dev libhwloc-dev -y
 * git clone https://github.com/xmrig/xmrig
 * cd xmrig
 * mkdir build
