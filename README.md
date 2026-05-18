@@ -1,5 +1,5 @@
 # Gray Mountain - Mining Rig Setup
-* XMRig Mining - Orange Pi CLI and Termux
+* XMRig Mining - Armbian CLI and Termux
 
 ## Patreon Sponsor -
 * (Patreon / Medium / Substack):
@@ -31,7 +31,7 @@
 * cmake -DWITH_HWLOC=OFF ..
 * make
 
-## For Orange / Raspberry / Banana Pi / Nano Pi / Rock Pi -
+## For Orange Pi / Raspberry Pi / Banana Pi / Nano Pi / Rock Pi -
 
 ## Setup:
 * apt-get update -y --fix-missing
