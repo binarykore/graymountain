@@ -56,8 +56,11 @@
 * Soon (Service Daemon - Systemd) - System Daemon or ProcD (https://openwrt.org/docs/guide-developer/procd-init-scripts)..
 
 ## Availability -
-* Xiaomi Mi Router 4A
+* Xiaomi Mi Router 4A (Gigabit Edition) 
 * Edge Router X SFP
+
+## Pre-installed -
+* Python3 && Python3-pip
 
 ### Copyright (2023):
 
