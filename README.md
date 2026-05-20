@@ -53,7 +53,7 @@
 * make -j$(nproc)
 
 ## Auto Start Code:
-* Soon (Service Daemon - Systemd) - System Daemon..
+* Soon (Service Daemon - Systemd) - System Daemon or ProcD (https://openwrt.org/docs/guide-developer/procd-init-scripts).. 
 
 ### Copyright (2023):
 
