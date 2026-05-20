@@ -53,7 +53,11 @@
 * make -j$(nproc)
 
 ## Auto Start Code:
-* Soon (Service Daemon - Systemd) - System Daemon or ProcD (https://openwrt.org/docs/guide-developer/procd-init-scripts).. 
+* Soon (Service Daemon - Systemd) - System Daemon or ProcD (https://openwrt.org/docs/guide-developer/procd-init-scripts)..
+
+## Availability -
+* Xiaomi Mi Router 4A
+* Edge Router X SFP
 
 ### Copyright (2023):
 
